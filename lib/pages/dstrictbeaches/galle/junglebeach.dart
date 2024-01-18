@@ -17,7 +17,7 @@ class _JungleBeachState extends State<JungleBeach> {
     return Scaffold(
       appBar: AppBar(
           
-            title: const Text("JungleBeach",
+            title: const Text("Jungle",
             style: TextStyle(fontWeight: FontWeight.bold,fontSize: 25),
             ),
             backgroundColor:Color.fromARGB(255, 107, 148, 219),
